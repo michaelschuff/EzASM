@@ -1,7 +1,7 @@
-class ezasm < Formula
+class Ezasm < Formula
   desc "An assembly-like programming language for use in education"
   homepage "https://github.com/ezasm-org/EzASM"
-  url "https://github.com/ezasm-org/EzASM.git"
+  url "https://github.com/michaelschuff/EzASM.git"
   license "MIT"
 
   depends_on "maven" => :build
